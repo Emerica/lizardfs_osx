@@ -2,16 +2,13 @@
 Simple scripts and pkg for installing lizardfs pkg on osx.
 
 Step 1: 
-Reboot into recovery and launch a terminal.
-
-csrutil disable
+Reboot into recovery and launch a terminal. Run: csrutil disable
 
 Step 2:
 Reboot and run install.sh
 
 Step 3: 
-Reboot into recovery and launch a terminal.
-csrutil enable
+Reboot into recovery and launch a terminal. Run: csrutil enable
 
 Step 4: 
 Reboot.
